@@ -19,3 +19,11 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
+## 📬 Você pode me encontrar em:
+
+- Telefone: (61) 99816-5200
+- E-mail: gabriel.mfn@gmail.com
+- LinkedIn: http://linkedin.com/in/gabriel-fn
+- Blog: http://warcontent.com
+
+##
